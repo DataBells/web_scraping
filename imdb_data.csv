@@ -1,101 +1,104 @@
-titles,author
-Pride and Prejudice,Jane Austen
-1984,George Orwell
-Crime and Punishment,Fyodor Dostoevsky
-Hamlet,William Shakespeare
-One Hundred Years of Solitude,Gabriel García Márquez
-Anna Karenina,Leo Tolstoy
-The Odyssey,Homer
-The Stranger,Albert Camus
-The Brothers Karamazov,Fyodor Dostoevsky
-Great Expectations,Charles Dickens
-Lolita,Vladimir Nabokov
-The Old Man and the Sea,Ernest Hemingway
-War and Peace,Leo Tolstoy
-Don Quixote,Miguel de Cervantes Saavedra
-The Iliad,Homer
-Madame Bovary,Gustave Flaubert
-The Trial,Franz Kafka
-The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri
-"Moby-Dick or, The Whale",Herman Melville
-King Lear,William Shakespeare
-Love in the Time of Cholera,Gabriel García Márquez
-Mrs. Dalloway,Virginia Woolf
-The Complete Fairy Tales,Hans Christian Andersen
-Othello,William Shakespeare
-The Arabian Nights,Anonymous
-Ulysses,James Joyce
-The Sound and the Fury,William Faulkner
-Gulliver’s Travels,Jonathan Swift
-"Oedipus Rex  (The Theban Plays, #1)",Sophocles
-The Canterbury Tales,Geoffrey Chaucer
-"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren
-The Idiot,Fyodor Dostoevsky
-"Swann’s Way (In Search of Lost Time, #1)",Marcel Proust
-The Collected Tales of Edgar Allan Poe,Edgar Allan Poe
-To the Lighthouse,Virginia Woolf
-"Beloved (Beloved Trilogy, #1)",Toni Morrison
-"Faust, First Part",Johann Wolfgang von Goethe
-Blindness,José Saramago
-"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe
-Ficciones,Jorge Luis Borges
-Zorba the Greek,Nikos Kazantzakis
-The Death of Ivan Ilych,Leo Tolstoy
-Middlemarch,George Eliot
-Midnight’s Children,Salman Rushdie
-The Epic of Gilgamesh,Anonymous
-A Doll's House,Henrik Ibsen
-Journey to the End of the Night,Louis-Ferdinand Céline
-Invisible Man,Ralph Ellison
-Leaves of Grass,Walt Whitman
-The Magic Mountain,Thomas Mann
-The Book of Disquiet,Fernando Pessoa
-The Man Without Qualities,Robert Musil
-Hunger,Knut Hamsun
-The Decameron,Giovanni Boccaccio
-Dead Souls,Nikolai Gogol
-Metamorphoses,Ovid
-The Aeneid,Virgil
-The Castle,Franz Kafka
-Wuthering Heights,Emily Brontë
-Medea,Euripides
-Mahabharata,Anonymous
-The Red and the Black,Stendhal
-Gargantua and Pantagruel,François Rabelais
-The Complete Stories,Franz Kafka
-Père Goriot,Honoré de Balzac
-The Adventures of Huckleberry Finn,Mark Twain
-Selected Stories of Anton Chekhov,Anton Chekhov
-"Absalom, Absalom!",William Faulkner
-The Tin Drum,Günter Grass
-Buddenbrooks: The Decline of a Family,Thomas Mann
-Ramayana,Vālmīki
-Sons and Lovers,D.H. Lawrence
-Demons,Fyodor Dostoevsky
-Pedro Páramo,Juan Rulfo
-Memoirs of Hadrian,Marguerite Yourcenar
-The Book of Job (Pocket Canon),Anonymous
-The Golden Notebook,Doris Lessing
-The Complete Essays,Michel de Montaigne
-"The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne
-Molloy / Malone Dies / The Unnamable,Samuel Beckett
-مثنوی معنوی,Jalal ad-Din Muhammad ar-Rumi
-Jacques the Fatalist,Denis Diderot
-Season of Migration to the North,Tayeb Salih
-The Tale of Genji,Murasaki Shikibu
-Sentimental Education,Gustave Flaubert
-أولاد حارتنا,Naguib Mahfouz
-Independent People,Halldór Laxness
-The Sound of the Mountain,Yasunari Kawabata
-Nostromo,Joseph Conrad
-Diary of a Madman and Other Stories,Lu Xun
-Grande Sertão: Veredas,João Guimarães Rosa
-Zeno's Conscience,Italo Svevo
-Romancero gitano,Federico García Lorca
-History,Elsa Morante
-Poems of Paul Celan,Paul Celan
-Berlin Alexanderplatz,Alfred Döblin
-Njal's Saga,Anonymous
-The Recognition of Śakuntalā,Kālidāsa
-The Orchard: The Bostan Of Saadi Of Shiraz,Saadi
-The Poems of Giacomo Leopardi,Giacomo Leopardi
+Generic Name,Brand Name,Indication Name,Medication Name,DEA Name
+Generic Name,Brand Name,Indication,Medication Class,DEA
+acetaminophen and codeine,Tylenol with Codeine,Pain Treatment,Analgesic,III
+albuterol aerosol,Proair Proventil,Asthma,Beta2-agonist,VI
+albuterol HFA,"Accuneb: Proventil
+Nebulizer Soln",Asthma;Chronic Bronchitis,Bronchodilator,VI
+alendronate,Fosamax,Osteoporosis,Bisphosphonate,VI
+allopurinol,Zyloprim,Gout,Xanthinine Oxidase Inhibitor,VI
+alprazolam,Xanax,Anxiety,Benzodiazepine,IV
+amitriptyline,Elavil,Depression,Tricyclic Antidepressant,VI
+amoxicillin and clavulanate K+,Augmentin,Antibiotic,Penicillin,VI
+amoxicillin,Amoxil: Trimox,Antibiotic,Penicillin,IV
+amphetamine and dextroamphetamine XR,Adderall XR,Stimulant,Attention Deficit Hyperactivity Disorder (ADHD) control,II
+atenolol,Tenormin,High Blood Pressure Treatment;Chest Pain Treatment,Beta-Blocker,VI
+atorvastatin,Lipitor,High Cholesterol Treatment,HMG-CoA reductase Inhibitor,VI
+azithromycin,Zithromax;Z-Pak,Antibiotic,Macrolide,VI
+benazepril and amlodipine,Lotrel,High Blood Pressure Treatment,Combination Med;ACE Inhibitor;Calcium Channel Blocker,VI
+carisoprodol,Soma,Muscle Spasm Treatment,Muscle Relaxant,VI
+carvedilol,Coreg,High Blood Pressure/Heart Failure Treatment,Beta-Blocker,VI
+cefdinir,Omnicef,Antibiotic,Cephalosporin,VI
+celecoxib,Celebrex,Pain;Inflammation,Cox-2 Inhibitor,VI
+cephalexin,Keflex,Antibiotic,Cephalosporin,VI
+ciprofloxacin,Cipro,Antibiotic,Quinolone,VI
+citalopram,Celexa,Depression or Anxiety Treatment,Selective Seratonin Receptor Inhibitor,VI
+clonazepam,Klonopin,Anxiety,Benzodiazepine,IV
+clonidine HCl,Catapres,High Blood Pressure Treatment,Alpha 2 Agonist,VI
+clopidogrel,Plavix,Blood Clot Prevention,Antiplatelet Agent,VI
+Generic Name,Brand Name,Indication,Medication Class,DEA
+Premarin (conjugated estrogens),Premarin,Menopausal Symptom Treatment,Estrogen Derivative,VI
+cyclobenzaprine,Flexeril,Muscle Spasm Treatment,Skeletal Muscle Relaxant,VI
+diazepam,Valium,Anxiety,Benzodiazepine,IV
+diclofenac sodium,Voltaren,"Pain, Inflammation",Non-Steroidal Anti-Inflammatory Drug (NSAID),VI
+Yaz (drospirenone and ethinyl estradiol),Yaz,Birth Control,Oral Contraceptive,VI
+Duloxetine,Cymbalta,Depression;Diabetic Neuropathic Pain Treatment,Serotonin/Norephinephrine Reuptake Inhibitor,VI
+doxycycline hyclate,Vibramycin,Antibiotic,Tetracycline,VI
+enalapril,Vasotec,High Blood Pressure;Heart Failure Treatment,ACE-Inhibitor,VI
+escitalopram,Lexapro,Depression or Anxiety Treatment,Selective Seratonin Receptor Inhibitor,VI
+esomeprazole,Nexium,Ulcers;GERD Treatment,Proton Pump Inhibitor,VI;OTC
+ezetimibe,Zetia,High Cholesterol Treatment,2-Azetidinone,VI
+fenofibrate,Tricor,High Cholesterol Treatment,Cholesterol Lowering Agent,VI
+fexofenadine,Allegra,Allergy Treatment/Prevention,Antihistamine,VI;OTC
+fluconozole,Diflucan,Fungal Infection Treatment,Antifungal,VI
+fluoxetine HCl,Prozac,Depression or Anxiety Treatment,Selective Seratonin Receptor Inhibitor,VI
+fluticasone and salmeterol inhaler,Advair,Asthma Treatment/Prevention,Combination Med;Oral Corticosteroid;Long Acting Beta2-agonist,VI
+fluticasone nasal spray,Flonase,Asthma and/or Allergy Treatment/Prevention,Nasal Corticosteroid,OTC
+folic acid,Folic Acid,Anemia Treatment/Prevention,Vitamin,VI;OTC
+furosemide,Lasix,Edema;Hypertension Treatment,Loop Diuretic,VI
+gabapentin,Neurontin,Seizure Control;Neuralgia Treatment,Anticonvulsant,V
+glimepiride,Amaryl,Type 2 Diabetes Mellitus,Anti-Diabetic,VI
+glyburide,Diabeta,Glycemic Control Improvement,Sulfonylurea,VI
+glipizide,Glucotrol,Glycemic Control Improvement,Sulfonylurea,VI
+hydrochlorothiazide,Microzide,High Blood Pressure Treatment,Diuretic,VI
+hydrocodone and acetaminophen,Lortab;Lorcet;Norco;Vicodin,Pain Treatment,Narcotic Analgesic,II
+ibuprophen,Motrin,Pain Treatment,Non-Steroidal Anti-Inflammatory Drug (NSAID),VI;OTC
+lantus (insulin glargine),Lantus,Glycemic Control Improvement,Insulin,VI
+isosorbide mononitrate,Imdur,Chest Pain (Angina) Prevention,Vasiodilator,VI
+lansoprazole,Prevacid,Ulcers;GERD Treatment,Proton Pump Inhibitor,VI;OTC
+levofloxacin,Levaquin,Antibiotic,Quinolone,VI
+levothyroxine sodium,Synthroid;Levoxl,Thyroid Hormone Deficiency Therapy,Thyroid Hormone Replacement,VI
+synthroid (levothyroxine sodium),Synthroid,Thyroid Hormone Deficiency Therapy,Thyroid Hormone Replacement,VI
+lisinopril and hydrochlorothiazide,Prinizide;Zestoretic,High Blood Pressure/Heart Failure Treatment,Combination Med;ACE Inhibitor;Diuretic,VI
+lisinopril,Prinivil;Zestril,High Blood Pressure/Heart Failure Treatment,ACE-Inhibitor,VI
+lorazepam,Ativan,Anxiety,Benzodiazepine,IV
+losartan,Cozaar,High Blood Pressure/Heart Failure Treatment,Angiotensin Receptor Blocker,VI
+lovastatin,Mevacor,High Cholesterol Treatment,HMG-CoA reductase Inhibitor,VI
+meloxicam,Mobic,Arthritis Treatment,Non-Steroidal Anti-Inflammatory Drug (NSAID),VI
+metformin HCl,Glucophage,Glycemic Control Improvement,Biguanide,VI
+methylprednisone,Medrol,"Pain, Inflammation",Corticosteroid,VI
+metoprolol succinate XL,Toprol,High Blood Pressure/Heart Failure Treatment;Irregular Heartbeat Treatment,Beta-Blocker,VI
+metoprolol tartrate,Lopressor,High Blood Pressure Treatment,Beta-Blocker,VI
+mometasone,Nasonex,Allergy Treatment/Prevention,Corticosteroid,VI
+montelukast,Singulair,Asthma and/or Allergy Treatment/Prevention,Leukotriene Receptor Antagonist,VI
+naproxen,Naprosyn,Pain Treatment,Non-Steroidal Anti-Inflammatory Drug (NSAID),VI;OTC
+omeprazole,Prilosec,Ulcers;GERD Treatment,Proton Pump Inhibitor,VI;OTC
+oxycodone and acetaminophen,Percocet;Tylox;Roxicet;Endocet,Pain Treatment,Narcotic Analgesic,II
+pantoprazole,Protonix,Ulcers;GERD Treatment,Proton Pump Inhibitor,VI
+paroxetine,Paxil,Depression;Anxiety,Selective Serotonin Receptor Inhibitor,VI
+pioglitazone,Actos,Glycemic Control Improvement,Thiazolidinedione,VI
+potassium Chloride,Klor-Con,Potassium Deficiency Treatment,Electrolyte Supplement,VI
+pravastatin,Pravachol,High Cholesterol Treatment,HMG-CoA reductase Inhibitor,VI
+prednisone,Deltasone,Accute Allergy;Inflammation;Asthma,Oral Corticosteroid,VI
+pregabalin,Lyrica,Diabetic Neuropathic Pain,Gamma Aminobutyric Acid,V
+promethazine,Phenergan,Nausea Control,Antiemetic,VI
+quetiapine,Seroquel,Schizophrenia Treatment,Antipsychotic,VI
+ranitidine,Zantac,Ulcers;GERD Treatment,H2-antagonist,VI
+rosuvastatin,Crestor,High Cholesterol Treatment,HMG-CoA reductase Inhibitor,VI
+sertraline HCl,Zoloft,Depression;Anxiety,Selective Serotonin Receptor Inhibitor,VI
+viagra (sildenafil HCl),Viagra,Erectile Dysfunction Treatment,Phophodiesterase-5 Inhibitor,VI
+simvastatin and ezetimibe,Vytorin,High Cholesterol Treatment,Combo Med;HMG-CoA Reductase Inhibitor and 2-azetidinone,VI
+simvastatin,Zocor,High Cholesterol Treatment,HMG-CoA reductase Inhibitor,VI
+spironolactone,Aldactone,Edema;Hypertension Treatment,Diuretic,VI
+sulfamethoxazole and trimethoprim DS,Bactrim DS;Septra DS,Antibiotic,Combo Med;Sulfonamide and Trimethoprim,VI
+tamsulosin,Flomax,Urinary/Prostate Disorder Treatment,Alpha1-Blocker,VI
+temezepam,Restoril,Anxiety;Insomnia Treatment,Benzodiazepine,IV
+topiramate,Topamax,Seizure Control,Anti-Convulsant,VI
+tramadol,Ultram,Pain Treatment,Non-Narcotic Analgesic,IV
+triamcinolone Ace topical,Aristocort;Cinalog;Kenalog;Triderm,Skin Inflammation and Irritation,Topical Corticosteroid,VI
+trazodone HCl,Desyrel,Depression Treatment,Serotonin Reuptake Inhibitor,VI
+triamterene and hydrochlorothiazide,Dyazide;Maxzide,High Blood Pressure Treatment,Combo Med;Thiazide and Potassium Sparing Diuretic,VI
+valaciclovir,Valtrex,Viral Infection Treatment,Antiviral,VI
+valsartan,Diovan,High Blood Pressure;Heart Failure Treatment,Angiotensin Receptor Blocker,VI
+venlafaxine XR,Effexor XR,Depression or Anxiety Treatment,Serotonin/Norepinephrine Reuptake Inhibitor,VI
+verapamil SR,Calan SR;Verelan PM,High Blood Pressure;Chest Pain;Irregular Heartbeat Treatment,Calcium Channel Blocker,VI
+zolpidem,Ambien,Insomnia,Hypnotic,IV

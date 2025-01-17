@@ -1,8 +1,9 @@
-import requests
+# Import libraries for Network Requests, scrap information from web pages and CSV
+import requests 
 from bs4 import BeautifulSoup
 import csv
 
-class IMDBScraper:
+class Scraper:
     def __init__(self, url, selectors, output_file="imdb_data.csv"):
         """
         :param url: Target URL of the IMDb list.
@@ -88,16 +89,20 @@ class IMDBScraper:
 if __name__ == "__main__":
     # URL of the IMDb list
     # url = "https://www.imdb.com/list/ls063771441/"
-    url = "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"
+    url = "https://rxtechexam.com/top-100-drugs/?srsltid=AfmBOorHLkaSwyn24e37AOV8x-F96urB7UOa_QfSSv2qy2f_Mgb6pF-K"
 
     # Define CSS selectors for the data you want to scrape
     selectors = {
         # "titles": ".ipc-title__text",                    # Movie title selector
         # "ratings": ".ipc-rating-star--rating",           # Movie rating selector
         # "votes": ".ipc-rating-star--voteCount",          # Vote count selector
-        "titles": ".bookTitle",
-        "author": ".authorName",
+        "Generic Name": ".column-1",
+        "Brand Name": ".column-2",
+        "Indication Name": ".column-3",
+        "Medication Name": ".column-4",
+        "DEA Name": ".column-5",
+        # "author": ".authorOrTitle",
     }
 
-    scraper = IMDBScraper(url, selectors)
+    scraper = Scraper(url, selectors)
     scraper.scrape()
