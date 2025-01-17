@@ -1,4 +1,4 @@
-# Import libraries for Network Requests, scrap information from web pages and CSV
+# Import libraries for network requests, scrap data from web pages and CSV to export data 
 import requests 
 from bs4 import BeautifulSoup
 import csv
@@ -10,7 +10,6 @@ class Scraper:
         self.selectors = selectors
         self.data = {}
         self.output_file = output_file
-
 
 # Fetch the URL
     def fetch_page(self):
@@ -25,8 +24,6 @@ class Scraper:
             return None
         return response.text
 
-
-
 # Parsing URL to extract data based on selectors
     def parse_data(self, page_content):
         soup = BeautifulSoup(page_content, 'lxml')
@@ -34,7 +31,6 @@ class Scraper:
         for key, selector in self.selectors.items():
             elements = soup.select(selector)
             self.data[key] = [element.getText().strip() for element in elements]
-
 
 #  Export Data to CSV
     def save_to_csv(self):
@@ -53,7 +49,6 @@ class Scraper:
             writer.writerows(rows)
         print(f"Data saved to {self.output_file} successfully!")
 
-
 # Display the scraped data in readable format 
     def display_data(self):
         if not self.data:
@@ -65,7 +60,6 @@ class Scraper:
             print(f"\n{key.capitalize()}:")
             for i, value in enumerate(values, start=1):
                 print(f"{i}. {value}")
-
                
 # Main Method
     def scrape(self):
@@ -74,7 +68,6 @@ class Scraper:
             self.parse_data(page_content)
             self.display_data()
             self.save_to_csv()
-
 
 # Entry Point Script 
 if __name__ == "__main__":
